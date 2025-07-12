@@ -285,3 +285,18 @@ yeahmobi.com, 5135195, RESELLER
 zetaglobal.net, 815, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+bidmachine.io, 113, RESELLER
+improvedigital.com, 2609, RESELLER
+advertising.com, 82632, RESELLER
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+xandr.com, 16546, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+taurusx.com, 80635, RESELLER
+app-stock.com, 256917, RESELLER
+improvedigital.com, 2534, RESELLER
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+copper6.com, 766114, RESELLER
+zmaticoo.com, 5135063, RESELLER
