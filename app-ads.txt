@@ -389,3 +389,10 @@ rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 media.net, 8CUH46N56, RESELLER
 themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+themediagrid.com, GODNC4, RESELLER, 35d5010d7789b49d
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+triplelift.com, 95054, RESELLER, 6c33edb13117fd86
